@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "buildCommand": "next build",
+  "installCommand": "npm install",
+  "framework": "nextjs",
+  "env": {
+    "DATABASE_URL": "postgresql://neondb_owner:npg_EOZ3R2gQbmCN@ep-odd-rice-a526iwdn-pooler.us-east-2.aws.neon.tech/neondb?sslmode=require"
+  }
+} 
